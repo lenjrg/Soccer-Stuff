@@ -1,7 +1,7 @@
 ### Games to watch today 
 #### 12.15.2025
 
-[Daily Blog](../Soccer-Stuff/daily-blog.md) | [Games to watch](../Soccer-Stuff/games-to-watch.md) | [Who are We](../Soccer-Stuff/who-are-we.md)
+[Daily Blog](../Soccer-Stuff/index.html) | [Games to watch](../Soccer-Stuff/games-to-watch.html) | [Who are We](../Soccer-Stuff/who-are-we.html)
 
 Desktop operating systems provide the software environment that allows users to interact with computer hardware. Here are three popular options:
 

@@ -1,6 +1,6 @@
 ### Who are we?
 
-[Daily Blog](../Soccer-Stuff/daily-blog.md) | [Games to watch](../Soccer-Stuff/games-to-watch.md) | [Who are We](../Soccer-Stuff/who-are-we.md)
+[Daily Blog](../Soccer-Stuff/index.html) | [Games to watch](../Soccer-Stuff/games-to-watch.html) | [Who are We](../Soccer-Stuff/who-are-we.html)
 
 Here is a biography of our CEO, Jorge Leon.
 
